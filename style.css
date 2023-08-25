@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    padding: 20px;
+    font-size:60px ;
+    background-color: rgb(201, 24, 124);
+}
+
+.calculator{
+    padding: 10px;
+    border-radius: 1cm;
+    height: 400px;
+    width: 500;
+    margin: auto;
+    background-color: rgb(226, 180, 43);
+    border: solid black 1 px;
+
+}
+.display-box{
+    background-color: brown;
+    border: solid rgb(107, 124, 84) 1px;
+    color: black;
+    border-radius: 2 px;
+    width: 100px;
+    height: 55px;
+
+    
+}
+#btn{
+    background-color: rgb(79, 31, 224);
+}
+
+input[type-button]{
+    background-color: blanchedalmond;
+    color: bisque;
+    border: solid black 0.5px;
+    border-radius: 5px;
+    width: 100px;
+    height: 60px;
+    outline: none;
+
+}
